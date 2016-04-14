@@ -3,14 +3,13 @@
 http://106fm.livecdn.biz:7075
 #EXTINF:0,xstream
 http://amber.streamguys.com:5220/xstream
-http://icecast.media.berkeley.edu:8000/kalx-128.mp3
+http://icecast.media.berkeley.edu:8000/kalx-128.ogg
 http://kcrw.ic.llnwd.net/stream/kcrw_live
 http://kcrw.ic.llnwd.net/stream/kcrw_music
 http://216.246.37.218:80/
 http://streaming.kzsc.org:8000/kzschigh
 http://103.livecdn.biz/103fm
 http://live.str3am.com:2430/kalw
-http://69.12.217.101:8000/
 http://kcrw.ic.llnwd.net/stream/kcrw_mp3_128_news
 http://aac.kfjc.org:80/high
 http://streams1.kpfa.org:8000/kpfa_64
@@ -22,8 +21,4 @@ http://fm939.wnyc.org/wnycfm
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
-#EXTINF:0,playlist.m3u8
-http://82.80.192.27/iba_radio-betMRepeat/_definst_/smil:radio-betM.smil/playlist.m3u8
 http://streams2.kqed.org:80/kqedradio
-#EXTINF:0,playlist.m3u8
-http://82.80.192.2/iba_radio-88fmBRepeat/_definst_/smil:radio-88fmB.smil/playlist.m3u8
