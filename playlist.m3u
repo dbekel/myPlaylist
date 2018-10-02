@@ -1,12 +1,22 @@
 #EXTM3U
 #EXTINF:0,icecast.audio
 http://103fm.live.streamgates.net/103fm_live/1multix/icecast.audio
+#EXTINF:0,99fm_aac
+http://99.livecdn.biz/99fm_aac
 https://eol-live.cdnwiz.com/eol/eolsite/playlist.m3u8
-http://54.196.113.103/entercom-kgmzfmmp3-64?session-id=a9546e26472653af8f4cfe28293ff636
+#EXTINF:0,darom97fm
+http://audio-darom.ecast.co.il/darom97fm
+#EXTINF:0,radiohaifa
+http://1075.livecdn.biz/radiohaifa
+#EXTINF:0,102fm_aac
+http://102.livecdn.biz/102fm_aac
+#EXTINF:0,glz_aes
+http://glzwizzlv.bynetcdn.com/glz_aes
 #EXTINF:0,Kcrw Simulcast
 http://kcrw.streamguys1.com/kcrw_192k_mp3_on_air_internet_radio
-#EXTINF:0,Kcrw Music Stream
-http://kcrw.streamguys1.com/kcrw_192k_mp3_e24_internet_radio
+#EXTINF:0,ipbc_IPBCgimmelLAB
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCgimmelLAB
+http://54.196.113.103/entercom-kgmzfmmp3-64?session-id=a9546e26472653af8f4cfe28293ff636
 http://streams2.kqed.org:80/kqedradio
 #EXTINF:0,WQXR 105.9 FM
 http://stream.wqxr.org/wqxr
@@ -17,12 +27,14 @@ http://uk3-vn.mixstream.net:8264
 http://uk2-vn.mixstream.net:8004
 #EXTINF:0,The Jonathan Channel
 http://tjc.wnyc.org/js-stream
-#EXTINF:0,darom97fm
-http://audio-darom.ecast.co.il/darom97fm
 #EXTINF:0,Q2 Music
 http://q2stream.wqxr.org/q2
+#EXTINF:0,mmsh://azul.streamguys.com/kalw
+mmsh://azul.streamguys.com/kalw?MSWMExt=.asf
 #EXTINF:0,KCRW Worldnews
 http://kcrw.streamguys1.com/kcrw_192k_mp3_news_internet_radio
+#EXTINF:0,Kcrw Music Stream
+http://kcrw.streamguys1.com/kcrw_192k_mp3_e24_internet_radio
 http://streams1.kpfa.org:8000/kpfa_64
 http://icecast.media.berkeley.edu:8000/kalx-128.ogg
 http://18423.live.streamtheworld.com:3690/KDFCFM2_SC
