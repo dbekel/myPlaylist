@@ -1,44 +1,1 @@
-#EXTM3U
-#EXTINF:0,icecast.audio
-http://103fm.live.streamgates.net/103fm_live/1multix/icecast.audio
-#EXTINF:0,99fm_aac
-http://99.livecdn.biz/99fm_aac
-https://eol-live.cdnwiz.com/eol/eolsite/playlist.m3u8
-#EXTINF:0,darom97fm
-http://audio-darom.ecast.co.il/darom97fm
-#EXTINF:0,radiohaifa
-http://1075.livecdn.biz/radiohaifa
-#EXTINF:0,102fm_aac
-http://102.livecdn.biz/102fm_aac
-#EXTINF:0,glz_aes
-http://glzwizzlv.bynetcdn.com/glz_aes
-#EXTINF:0,Kcrw Simulcast
-http://kcrw.streamguys1.com/kcrw_192k_mp3_on_air_internet_radio
-#EXTINF:0,ipbc_IPBCgimmelLAB
-http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCgimmelLAB
-http://54.196.113.103/entercom-kgmzfmmp3-64?session-id=a9546e26472653af8f4cfe28293ff636
-http://streams2.kqed.org:80/kqedradio
-#EXTINF:0,WQXR 105.9 FM
-http://stream.wqxr.org/wqxr
-http://fm939.wnyc.org/wnycfm
-#EXTINF:0,uk3-vn.mixstream.net:8264
-http://uk3-vn.mixstream.net:8264
-#EXTINF:0,uk2-vn.mixstream.net:8004
-http://uk2-vn.mixstream.net:8004
-#EXTINF:0,The Jonathan Channel
-http://tjc.wnyc.org/js-stream
-#EXTINF:0,Q2 Music
-http://q2stream.wqxr.org/q2
-#EXTINF:0,mmsh://azul.streamguys.com/kalw
-mmsh://azul.streamguys.com/kalw?MSWMExt=.asf
-#EXTINF:0,KCRW Worldnews
-http://kcrw.streamguys1.com/kcrw_192k_mp3_news_internet_radio
-#EXTINF:0,Kcrw Music Stream
-http://kcrw.streamguys1.com/kcrw_192k_mp3_e24_internet_radio
-http://streams1.kpfa.org:8000/kpfa_64
-http://icecast.media.berkeley.edu:8000/kalx-128.ogg
-http://18423.live.streamtheworld.com:3690/KDFCFM2_SC
-http://14993.live.streamtheworld.com:80/KUSCAAC96_SC
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p
+#EXTM3U#EXTINF:-1,103FM - Powered by Multix - 103FMhttp://103fm.live.streamgates.net/103fm_live/1multix/icecast.audio#EXTINF:-1,Eco 99fm - http://99.livecdn.biz/99fm_aac#EXTINF:-1,glz - http://glzwizzlv.bynetcdn.com/glz_aes#EXTINF:-1,icecast.audio - https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio#EXTINF:-1,ipbc - http://kanliveicy.media.kan.org.il/icy/kanbet_mp3#EXTINF:-1,ipbc - http://kanliveicy.media.kan.org.il/icy/kan88_mp3#EXTINF:-1,kangimmel_mp3 - http://kanliveicy.media.kan.org.il/icy/kangimmel_mp3#EXTINF:-1,KCRW E24 - http://kcrw.streamguys1.com/kcrw_192k_mp3_e24_internet_radio#EXTINF:-1,kzeradio - http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio#EXTINF:-1,naostalgia - http://kanliveicy.media.kan.org.il/icy/kannostalgia_mp3#EXTINF:-1,Radio Darom 97 FM (Low Stream) - Powered By eCast.co.il - http://audio-darom.ecast.co.il/darom97fm#EXTINF:-1,Radio Tel Aviv 102FM - http://102.livecdn.biz/102fm_aac#EXTINF:-1,radiohaifa - http://1075.livecdn.biz/radiohaifa#EXTINF:-1,KCRW Live - KCRW Livehttp://kcrw.streamguys1.com/kcrw_192k_mp3_on_air_internet_radio#EXTINF:-1,BBC 1 Extra - http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p#EXTINF:-1,BBC 6 - http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p#EXTINF:-1,bbcmedia_radio3_mf_p - http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p#EXTINF:-1,kcrw_192k_mp3_news_internet_radio - http://kcrw.streamguys1.com/kcrw_192k_mp3_news_internet_radio#EXTINF:-1,KCSM2 - http://ice7.securenetsystems.net/KCSM2#EXTINF:-1,kpfa_64 - http://streams1.kpfa.org:8000/kpfa_64#EXTINF:-1,kqedradio - http://streams2.kqed.org:80/kqedradio#EXTINF:-1,kzsu-3-128.mp3 - http://171.66.118.112:8080/kzsu-3-128.mp3#EXTINF:-1,New Sounds - Hand-picked Music, Genre Free - Icecast MP3 - http://q2stream.wqxr.org/q2#EXTINF:-1,wnycfm - http://fm939.wnyc.org/wnycfm#EXTINF:-1,wqxr - http://stream.wqxr.org/wqxr
